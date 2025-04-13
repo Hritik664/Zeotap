@@ -2,8 +2,7 @@
 
 A complete **Machine Learning pipeline** for analyzing eCommerce transactions, segmenting customers, and building a **Lookalike Recommendation System**. Combined unsupervised learning techniques with business-driven insights to improve targeting and personalization.
 
-![Zeotap Project Banner](Hritik_Singh_EDA.ipynb.pdf)
-
+![Zeotap Project Banner](zeotap.png)
 
 ## 📌 Project Description
 
